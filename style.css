@@ -1,0 +1,49 @@
+*{
+    font-family: 'Overlock SC', cursive;;
+}
+
+.hover:hover{
+    color: orange;
+    font-size: larger;
+}
+
+.navbar-blur{
+    backdrop-filter: blur(5px), saturate(0.1);
+    background-color: rgba(255, 202, 174, 0.862);
+}
+
+.cardCustom{
+    width: 75%;
+    height: 200px;
+}
+
+.imgShop{
+    height: 200px;
+    border-radius: 2%;
+}
+
+.testo{
+    border-radius: 2%;
+}
+
+.pCustom{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.card-img{
+    width: 250px;
+    height: 160px;
+}
+
+.cube{
+    width: 50px;
+    height: 50px;
+    background-color: gainsboro;
+}
+
+.size{
+    width: 35px;
+    height: 35px;
+}
